@@ -47,12 +47,12 @@ function Home() {
             <div className="love-start-container">
                 <h1 className="love-start-heading">ONE LOVE. TWO STORIES. ONE TURE.<br></br><span>Few Steps Of Every Love Story</span></h1>
                 <ul className='love-start-list'>
-                    <LoveStart bg_image="attraction.jpg" bg_color="#D25353" text="ATTRACTION" mean="The Sprak" />
-                    <LoveStart bg_image="connection.jpg" bg_color="#FFD150" text="CONNECTION" mean="Getting Closer" />
-                    <LoveStart bg_image="bond.jpg" bg_color="#458B73" text="EMOTION" mean="Trust & Comfort"/>
-                    <LoveStart bg_image="inlove.jpg" bg_color="#3D74B6" text="REALIZATION" mean="More Than Just Liking"/>
+                    <LoveStart bg_image="/public/attraction.jpg" bg_color="#D25353" text="ATTRACTION" mean="The Sprak" />
+                    <LoveStart bg_image="/public/connection.jpg" bg_color="#FFD150" text="CONNECTION" mean="Getting Closer" />
+                    <LoveStart bg_image="/public/bond.jpg" bg_color="#458B73" text="EMOTION" mean="Trust & Comfort"/>
+                    <LoveStart bg_image="/public/inlove.jpg" bg_color="#3D74B6" text="REALIZATION" mean="More Than Just Liking"/>
                     <div className="mobile_heart"></div>
-                    <LoveStart bg_image="purpose.jpg" bg_color="#D78FEE" text="COMMITMENT" mean="Choosing Each Other"/>
+                    <LoveStart bg_image="/public/purpose.jpg" bg_color="#D78FEE" text="COMMITMENT" mean="Choosing Each Other"/>
                 </ul>
             </div>
         </div>

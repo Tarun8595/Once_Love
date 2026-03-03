@@ -257,7 +257,7 @@ body{
 .mobile_heart{
   width: 30%;
   height: 48%;
-  background-image: url(mobile_flower.png);
+  background-image: url("/public/mobile_flower.png");
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
