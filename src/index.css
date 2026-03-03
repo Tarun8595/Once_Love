@@ -707,8 +707,8 @@ font-weight: bold;
 }
 .footer {
   background: var(--black-text);
-  height: 110vh;
-  transform: translateY(175%);
+  height: 115vh;
+  transform: translateY(150%);
   width: 100%;
   display: flex;
   align-items: center;
