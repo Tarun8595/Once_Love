@@ -41,9 +41,9 @@ const Footer = () => {
             </p>
 
             <div className="footer-social-icons">
-              <a href="https://www.instagram.com/gtsyntax/" className="social_icon"><img src="https://cdn-icons-png.flaticon.com/128/4138/4138124.png" alt="insatgram" /></a>
-              <a href="https://www.linkedin.com/in/tarun-kushwaha-web/" className="social_icon"><img src="https://cdn-icons-png.flaticon.com/128/4494/4494497.png" alt="linkdin" /></a>
-              <a href="https://github.com/Tarun8595" className="social_icon"><img src="https://cdn-icons-png.flaticon.com/128/11378/11378785.png" alt="github" /></a>
+              <a href="https://www.instagram.com/gtsyntax/" target="_blank" className="social_icon"><img src="https://cdn-icons-png.flaticon.com/128/4138/4138124.png" alt="insatgram" /></a>
+              <a href="https://www.linkedin.com/in/tarun-kushwaha-web/" target="_blank" className="social_icon"><img src="https://cdn-icons-png.flaticon.com/128/4494/4494497.png" alt="linkdin" /></a>
+              <a href="https://github.com/Tarun8595" target="_blank" className="social_icon"><img src="https://cdn-icons-png.flaticon.com/128/11378/11378785.png" alt="github" /></a>
            </div>
           </div>
 
