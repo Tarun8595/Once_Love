@@ -194,7 +194,7 @@ body{
   font-family: var(--heading-font);
 }
 .bottom-tagline{
-  font-size: 27.98vw;
+  font-size: 25vw;
   font-weight: bolder;
   color: transparent;
   -webkit-text-stroke: 1px rgb(239, 239, 239);
@@ -804,7 +804,7 @@ font-weight: bold;
   transform: scale(1.2);
 }
 .big-brand {
-  font-size: 31.5vw;
+  font-size: 29vw;
   letter-spacing: 2px;
   text-align: center;
   color: transparent;
